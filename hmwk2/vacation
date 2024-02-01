@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    double x;
+    char input;
+    char B;
+    cout << "What is your budget?" << endl;
+    cin >> x;
+    cout << "What mode of transportation would you like to take (B, T, or A)?" << endl;
+    cin >> input;
+    if (input=B, x>=175.25){
+    cout << "Yes, this vacation is within your budget!" << endl;
+    } else if (input=B, x<=175.25);{
+    cout << "Sorry, this vacation is outside your budget." << endl;
+    } else {
+    cout << "Please enter a valid input." << endl;
+    return 0;
+    }
+}

@@ -1,0 +1,14 @@
+
++-------------+
+| PARTY       |
++-------------+
+| Jake | Fullness: 54
+| Jenni | Fullness: 55
+| Lily | Fullness: 43
++-------------+
+Rooms Cleared: 5
+Gold Pieces Remaining: 192
+Treasure items in inventory: 1
+Number of explored spaces: 4
+Number of monsters defeated: 5
+Number of turns elapsed: 20
